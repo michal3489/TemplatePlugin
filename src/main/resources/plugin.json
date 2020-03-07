@@ -1,0 +1,12 @@
+{
+  "name": "Template Plugin",
+  "author": "Who",
+  "version": "1.0.0",
+  "minVersion": "1.13.17 alpha",
+  "supportedVersion": "1.13.17 alpha 4",
+  "features": [
+    "org.darkbot.modules.BrokenModule",
+    "org.darkbot.modules.SampleModule",
+    "org.darkbot.tasks.TitleChanger"
+  ]
+}
